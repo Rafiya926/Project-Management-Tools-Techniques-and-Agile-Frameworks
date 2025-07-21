@@ -1,0 +1,96 @@
+What is project management?
+As defined in PMIS, PMBOK, project management is application of knowledge, skills, tools and techniques to project activities to meet
+project requirements. So every project will have an objective to accomplish. Similarly, the objective of project management is to make 
+the final deliverables in a finite time and budget. This involves having clear understanding about the deliverables of the project, 
+required resources for the project, resource in terms of human resources, technical resources, financial resources etc. Project manager
+should have a full picture of those aspects, we can call it as constraints or aspects and manage those throughout the project life cycle 
+for which a project manager should have a full view about a project and what is that this project has to accomplish. That objective 
+should be clear. So as part of project management, the six constraints which project manager should look at are scope, time, quality, cost,
+risk and resources. So each of these areas has very important role to play in project management. The clarity in scope, the clarity in 
+terms of schedule within which the project has to be delivered, the cost, what it incurs to that particular project, once it is finalized,
+one cannot vary, one cannot change without any proper approvals. Similar to that, we have quality management which has to ensure the 
+scope, the specifications what are defined, project output will be accordingly achieved, risk, every project is taken up for a specific 
+reason by organization. So organization should assess the risk associated with the project and similarly as project progresses various
+different risks has to be identified like risk related to project management, risk related to technology area, risk related to resources,
+risk related to financial things. So broadly risk management plays a very important role. So there will be something called contingency 
+reserve kept for a identified risk above the cost what is estimated for various deliverables from the project. So every projects require 
+resources, resources may be in terms of human resources, financial resources, technology resources, environmental resources.
+So all these resources are used to produce the output of the project. So these resources has to be managed with the sufficient 
+optimization and standardizations required. Now let us understand the definition of a project. So what is a project? PMI defines 
+a project as a temporary endeavor undertaken to create a unique product, service or result. The temporary nature of a project 
+indicates that the project has a definite beginning and end. So when I say product, unique product, it means every output, 
+it may be similar products you are producing with the same features and functionality, but the output of every project is unique
+because it is unique in terms of all the six constraints what we just discussed now. So when I say product, it is very easy for 
+us to visualize. It may be a desktop, it may be a laptop, it may be a car, it may be a machine, etc. But how do I visualize a service?
+A project's output is a service. Now it is it's about building a capability, a project by through a project, a capability can be built
+to ensure services can be provided. That's what the output of project is service. For example, if I think about a taxi services for 
+providing a taxi services, I need a mobile app, I need taxi, I need a server, I need a data center. So all these are various different 
+products and services. Here service example can be internet service. So combination of all the services and products builds the
+capability for an organizations who can provide the taxi services. So building that capability, we say it is an output of a particular 
+project, which is called service. Similarly, results can be improvement of something, improvement in customer satisfaction, increase in 
+some specific objectives or specific results needs to be achieved in performance perspective. So output of every project will be unique 
+product or a service or a result. This we need to clearly understand. So when we say there is a definite beginning and end, every 
+project starts at a certain point in time and ends at a certain point in time. So it has a definite beginning and end.
+That is the reason it is temporary in nature. It is not an ongoing business activity.
+
+
+Project planning
+Project life cycle has five different phases from initiation to closure. Today, we will be learning about this phase that comes 
+immediately after initiation in which the project plan is documented and further requirements are defined. Project planning includes 
+the following things. The first and foremost thing is describing the objectives or outputs we are expecting the project to yield. 
+Second thing we have is the elaboration of the scope to make sure what the project is all about and what all can be expected from the
+project. The third step we have is forming a schedule. This schedule is important to run or perform different tasks of a project, 
+each task having its own start date and end date. This helps the project to finish in the scheduled time and limit. Lastly, we have
+making and generating progress reports in which all that went during the tenure of the project is documented. This helps in evaluating
+the project and helps in the forthcoming projects. Now let's have a look at the project planning fundamentals. The first fundamental 
+that we have is the determination of scope, cost and resources. The determination helps us in having a rough estimate about the time 
+that is required to finish the project. It helps us in determining the number of people required and what should be their skill set. 
+We can divide the project into smaller manageable sections and this is made possible with the help of work breakdown structure.
+The second fundamental refers to identifying the problem. There are several techniques by which we can collect information and 
+discover issues. There may be several problems in a project and in that case, several risks or issues are prioritized and the risk
+that requires immediate attention is dealt with first. Then comes identification of stakeholders. When we can identify the 
+stakeholders, we can know who all will be affected and in what way. It helps us having a better understanding of the project. 
+Stakeholders may be anybody. They may be the part of the project team or project managers or customers. They help during the project 
+and contribute to its success. Then the last fundamental we will discuss is defining project objectives. A project plan is made 
+keeping in mind the requirements of the project team and expectations of the stakeholders. If the project team can meet the 
+expectations of the stakeholders, then only we can say that the project is successful. Now when we know about project planning and
+its fundamentals, it's time to see why project planning is so important. Project planning reduces the cost and time of the project
+as every step is monitored and optimized in the best possible manner. Project planning increases employee satisfaction as every
+employee who is a part is engaged in the team for improved project performance. Project planning helps in the implementation of
+quality assurance as the output of every step is duly tested. Lastly, project planning helps in reducing project risk as planning
+helps to analyze, prioritize and deal with that risk. Moving on, let's have a look at the tools for project planning. 
+The first tool that we have is a Gantt chart. Today, Gantt charts are one of the most popular project management tools.
+They help in tracking the status of the work at a particular time and their independencies on each other. Gantt charts help 
+in showing different phases and steps involved in a project. The second tool we will talk about is critical path method or CPM.
+Critical path method helps in scheduling the project activities so that the project runs properly. The critical path method focuses 
+on the longest stretch of dependent tasks and determines the time needed to complete them. The next tool is project evaluation and 
+review technique or PERT chart. PERT provides a graphical representation of the project's timeline, explaining the independencies 
+of different tasks. This tool not only helps in making a schedule, but also helps in coordinating with all the team members. 
+The fourth tool we will check is work breakdown structure. Work breakdown structure is a very common tool that makes it possible for
+the team to break its work into manageable sections. Work breakdown structure is a step-to-step process that helps in completing the
+project efficiently. The last tool we will see is project documentation. Project documentation is an integral part of the project
+lifecycle. Project documentation helps in understanding the mistakes done during the project and more importantly provides guidelines
+for the upcoming project. Now, when we know about different tools for project planning, it becomes essential that we know the necessary 
+steps of project planning. There are seven steps in project planning. Let's have a look at each of them in detail. The first step is
+identification of stakeholders. As we have discussed, stakeholders could be anybody. They could be a part of the team or a project 
+manager or a customer. When we identify stakeholders, we can find out the expectations and requirements that are to be looked upon 
+in this project. This gives us a clearer picture of the project and helps in establishing the project scope. So the next step we
+have is defining the project scope. This helps in determining a list of specific project goals and deliverables that are to be
+achieved during the course of the project. After we have defined the project scope, it is time to set project objectives and 
+prioritize them. The initial ideas that were there before are now elaborated and final steps to complete the project are defined.
+In the next step, the deliverables are determined. After all, project deliverables are the only reason why the project is being 
+created. This step involves finding out what these deliverables will be and the deadlines of their delivery. Then the step that 
+comes into picture is creating a project schedule. The project schedule refers to the guidelines when a particular task is to be
+started and when it is supposed to end. This helps in monitoring the growth of the project and later helps in generating progress 
+reports. The next step is the step of risk analysis. This step plays an extremely important role in the success of the overall project. 
+It helps in identifying the risk, prioritizing them, and taking steps to limit them. The last step in project planning is to generate 
+progress reports. In this step, we update the stakeholders about the project growth and it is done so that all the concerned team 
+members can have a look at the progress of the project. After all this information, Max thanks Jack for the explanation and looks 
+forward to plan projects within the budget and of better quality. Now let us learn about project management in Excel. 
+Microsoft Excel is one of the most common applications these days. It is used in both offices and at homes. 
+Microsoft Excel is an easy project management tool that allows the team members to easily see the tasks in a project, develop a plan,
+and track its progress. Before we learn more about project management in Excel, let's first have a look why do we use Excel. 
+Microsoft Excel is an easy tool to plan a project, so it can be used by people who are digners in terms of project management. 
+In Excel, one can find several analytical tools like Concatenate, Len, and Counter, so this makes data analysis easy and effective.
+As the entry of data is easy, same is tracking and controlling of project status. Then there are several project management 
+templates in Excel that help us to have an effective distribution of project data. 
